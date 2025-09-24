@@ -12,7 +12,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   <div className="container flex items-center justify-between">
     <Link href="/" className="flex items-center gap-3">
       <Image
-        src="/assets/EPG-logo.png"
+        src="/assets/epg-logo.png"
         alt="EPG Labs logo"
         width={100}
         height={40}
