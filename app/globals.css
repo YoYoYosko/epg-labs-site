@@ -1,0 +1,7 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark-hero { background: linear-gradient(180deg,#060A11,#0B0F17); position: relative; overflow: hidden; }
+.container { @apply max-w-6xl mx-auto px-6; }
